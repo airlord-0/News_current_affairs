@@ -1,6 +1,6 @@
 # 📰 NewsSense – AI Powered News Summarizer
 
-NewsSense is an **NLP-powered news summarization platform** that collects news from multiple publishers, summarizes them using AI, and displays them as **clean card-based current affairs updates**.
+NewsSensei is an **NLP-powered news summarization platform** that collects news from multiple publishers, summarizes them using AI, and displays them as **clean card-based current affairs updates**.
 
 It is designed mainly for **students preparing for competitive exams** and users who want quick **daily current affairs updates** without reading full news articles.
 
